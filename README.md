@@ -177,4 +177,4 @@ Daily cron job + on-demand `/notify/run` endpoint sends Gmail SMTP reminders for
 | `npm run lint`      | Run ESLint                           |
 | `npm run test`      | Run Vitest test suite                |
 
----
+---Link to view Project(deployed):https://yojanamitraai.netlify.app/
