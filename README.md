@@ -94,8 +94,6 @@ Frontend runs at:
 http://localhost:5173
 ```
 
----
-
 ## 3. Backend Setup (FastAPI)
 
 ```bash
@@ -109,8 +107,6 @@ Backend docs:
 ```text
 http://localhost:8000/docs
 ```
-
----
 
 ## 4. Environment Variables
 
