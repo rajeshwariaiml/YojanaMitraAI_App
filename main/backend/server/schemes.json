@@ -1,0 +1,10 @@
+[
+  {
+    "id": "dummy-scheme-001",
+    "name": "PM Kisan Samman Nidhi (DUMMY TEST)",
+    "description": "A dummy scheme inserted to verify email notifications. Eligible farmers receive direct income support.",
+    "deadline": "2026-05-09T23:59:00.000Z",
+    "applyUrl": "https://pmkisan.gov.in/",
+    "subscribers": ["sunsmilky@gmail.com"]
+  }
+]
