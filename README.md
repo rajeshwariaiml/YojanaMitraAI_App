@@ -19,7 +19,7 @@ YojanaMitraAI helps users discover the **right government welfare schemes** for 
 
 ---
 
-## Project Structure
+## Project Structure. 
 
 ```text
 YojanaMitraAI/
