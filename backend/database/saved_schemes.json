@@ -1,0 +1,18 @@
+[
+  {
+    "user_email": "demo@yojanamitra.ai",
+    "saved_schemes": [
+      { "scheme_name": "PM Kisan Samman Nidhi", "deadline": "2026-12-31" },
+      { "scheme_name": "PM Awas Yojana (Urban)", "deadline": "2026-05-03" },
+      { "scheme_name": "National Scholarship Portal - Post Matric", "deadline": "2026-04-22" },
+      { "scheme_name": "Karnataka Vidyasiri Scholarship", "deadline": "2026-04-18" }
+    ]
+  },
+  {
+    "user_email": "admin@yojanamitra.ai",
+    "saved_schemes": [
+      { "scheme_name": "PM Vishwakarma Yojana", "deadline": "2027-03-31" },
+      { "scheme_name": "Mudra Yojana (Shishu)", "deadline": "2026-04-17" }
+    ]
+  }
+]

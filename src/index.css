@@ -1,0 +1,180 @@
+/* IMPORTANT: @import statements MUST come BEFORE any other CSS rules
+   (including @tailwind). Vite/PostCSS will throw:
+   "[vite:css] @import must precede all other statements" otherwise. */
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================
+   Design system — Indian Tricolour theme
+   Saffron #FF9933  =  hsl(30  100% 60%)
+   White            =  hsl(0     0% 100%)
+   India Green #138808 = hsl(120 82% 28%)
+   Navy Chakra Blue #000080 = hsl(240 100% 25%)
+   All colors MUST be HSL.
+   ============================================================ */
+@layer base {
+  :root {
+    --background: 40 50% 98%;          /* warm off-white */
+    --foreground: 240 60% 12%;         /* deep navy ink */
+
+    --card: 0 0% 100%;
+    --card-foreground: 240 60% 12%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 60% 12%;
+
+    /* Brand: India Green = primary CTA */
+    --primary: 120 82% 28%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Saffron = secondary accent / highlight */
+    --secondary: 30 100% 60%;
+    --secondary-foreground: 240 60% 12%;
+
+    /* Soft saffron-tinted muted surfaces */
+    --muted: 36 60% 95%;
+    --muted-foreground: 240 20% 38%;
+
+    /* Navy chakra blue accent */
+    --accent: 240 100% 25%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 36 40% 85%;
+    --input: 36 40% 88%;
+    --ring: 240 100% 25%;
+    --radius: 0.625rem;
+
+    /* Tricolour tokens */
+    --tri-saffron: 30 100% 60%;
+    --tri-white: 0 0% 100%;
+    --tri-green: 120 82% 28%;
+    --tri-chakra: 240 100% 25%;
+
+    --sidebar-background: 40 50% 98%;
+    --sidebar-foreground: 240 60% 12%;
+    --sidebar-primary: 120 82% 28%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 36 60% 95%;
+    --sidebar-accent-foreground: 240 60% 12%;
+    --sidebar-border: 36 40% 85%;
+    --sidebar-ring: 240 100% 25%;
+  }
+
+  .dark {
+    --background: 240 40% 8%;
+    --foreground: 40 50% 96%;
+    --card: 240 35% 12%;
+    --card-foreground: 40 50% 96%;
+    --popover: 240 35% 12%;
+    --popover-foreground: 40 50% 96%;
+    --primary: 120 60% 45%;
+    --primary-foreground: 240 40% 8%;
+    --secondary: 30 100% 60%;
+    --secondary-foreground: 240 40% 8%;
+    --muted: 240 25% 18%;
+    --muted-foreground: 40 25% 70%;
+    --accent: 240 90% 60%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 70% 50%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 240 25% 22%;
+    --input: 240 25% 22%;
+    --ring: 30 100% 60%;
+    --sidebar-background: 240 40% 8%;
+    --sidebar-foreground: 40 50% 96%;
+    --sidebar-primary: 120 60% 45%;
+    --sidebar-primary-foreground: 240 40% 8%;
+    --sidebar-accent: 240 25% 18%;
+    --sidebar-accent-foreground: 40 50% 96%;
+    --sidebar-border: 240 25% 22%;
+    --sidebar-ring: 30 100% 60%;
+  }
+}
+
+@layer base {
+  * { @apply border-border; }
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', 'Noto Sans Kannada', system-ui, sans-serif;
+    background-image:
+      radial-gradient(circle at 0% 0%, hsl(var(--tri-saffron) / 0.08), transparent 40%),
+      radial-gradient(circle at 100% 100%, hsl(var(--tri-green) / 0.08), transparent 40%);
+    background-attachment: fixed;
+  }
+  :lang(kn), [lang="kn"] {
+    font-family: 'Noto Sans Kannada', 'Inter', system-ui, sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Plus Jakarta Sans', 'Noto Sans Kannada', system-ui, sans-serif;
+  }
+  h1:lang(kn), h2:lang(kn), h3:lang(kn),
+  [lang="kn"] h1, [lang="kn"] h2, [lang="kn"] h3 {
+    font-family: 'Noto Sans Kannada', 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+}
+
+/* ============================================================
+   Tricolour utility classes
+   ============================================================ */
+@layer components {
+  .tricolour-strip {
+    background: linear-gradient(
+      to bottom,
+      hsl(var(--tri-saffron)) 0%,
+      hsl(var(--tri-saffron)) 33.33%,
+      hsl(var(--tri-white)) 33.33%,
+      hsl(var(--tri-white)) 66.66%,
+      hsl(var(--tri-green)) 66.66%,
+      hsl(var(--tri-green)) 100%
+    );
+  }
+  .tricolour-bar {
+    background: linear-gradient(
+      to right,
+      hsl(var(--tri-saffron)) 0%,
+      hsl(var(--tri-saffron)) 33.33%,
+      hsl(var(--tri-white)) 33.33%,
+      hsl(var(--tri-white)) 66.66%,
+      hsl(var(--tri-green)) 66.66%,
+      hsl(var(--tri-green)) 100%
+    );
+  }
+  .glass {
+    background-color: hsl(var(--background) / 0.85);
+    backdrop-filter: saturate(180%) blur(14px);
+    -webkit-backdrop-filter: saturate(180%) blur(14px);
+    border-bottom: 1px solid hsl(var(--border));
+  }
+  .gradient-tricolour-text {
+    background: linear-gradient(
+      90deg,
+      hsl(var(--tri-saffron)),
+      hsl(var(--tri-chakra)),
+      hsl(var(--tri-green))
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .btn-saffron {
+    background-color: hsl(var(--tri-saffron));
+    color: hsl(var(--foreground));
+  }
+  .btn-saffron:hover { filter: brightness(0.95); }
+  .ring-chakra { box-shadow: 0 0 0 2px hsl(var(--tri-chakra) / 0.4); }
+}
+
+/* Animations preserved from original */
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-up { animation: fade-up 0.35s ease-out both; }
+@keyframes fade-in { from { opacity: 0 } to { opacity: 1 } }
+.animate-fade-in { animation: fade-in 0.25s ease-out both; }

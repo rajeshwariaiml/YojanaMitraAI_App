@@ -1,0 +1,1591 @@
+[
+  {
+    "title_en": "Post Matric Scholarship for SC Students",
+    "title_kn": "ಪೋಸ್ಟ್ ಮೆಟ್ರಿಕ್ ವಿದ್ಯಾರ್ಥಿವೇತನ (ಎಸ್‌ಸಿ)",
+    "description_en": "Post Matric Scholarship for SC Students provides government support under the Education category for SC students.",
+    "description_kn": "ಪೋಸ್ಟ್ ಮೆಟ್ರಿಕ್ ವಿದ್ಯಾರ್ಥಿವೇತನ (ಎಸ್‌ಸಿ) - ಎಸ್‌ಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible SC students.",
+    "benefits_kn": "ಅರ್ಹ ಎಸ್‌ಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: SC students residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಎಸ್‌ಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು.",
+    "keywords_en": [
+      "education",
+      "sc",
+      "students"
+    ],
+    "keywords_kn": [
+      "ಪೋಸ್ಟ್ ಮೆಟ್ರಿಕ್ ವಿದ್ಯಾರ್ಥಿವೇತನ (ಎಸ್‌ಸಿ)"
+    ],
+    "deadline": "2026-05-03",
+    "category": "Education",
+    "state": "All India",
+    "target_group": "SC students",
+    "scheme_name": "Post Matric Scholarship for SC Students",
+    "category_en": "Education",
+    "category_kn": "ಶಿಕ್ಷಣ",
+    "target_group_en": "SC students",
+    "target_group_kn": "ಎಸ್‌ಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Pre Matric Scholarship for OBC",
+    "title_kn": "ಪ್ರೀ ಮೆಟ್ರಿಕ್ ವಿದ್ಯಾರ್ಥಿವೇತನ (ಒಬಿಸಿ)",
+    "description_en": "Pre Matric Scholarship for OBC provides government support under the Education category for OBC students.",
+    "description_kn": "ಪ್ರೀ ಮೆಟ್ರಿಕ್ ವಿದ್ಯಾರ್ಥಿವೇತನ (ಒಬಿಸಿ) - ಒಬಿಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible OBC students.",
+    "benefits_kn": "ಅರ್ಹ ಒಬಿಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: OBC students residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಒಬಿಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು.",
+    "keywords_en": [
+      "education",
+      "obc",
+      "students"
+    ],
+    "keywords_kn": [
+      "ಪ್ರೀ ಮೆಟ್ರಿಕ್ ವಿದ್ಯಾರ್ಥಿವೇತನ (ಒಬಿಸಿ)"
+    ],
+    "deadline": "2026-04-25",
+    "category": "Education",
+    "state": "All India",
+    "target_group": "OBC students",
+    "scheme_name": "Pre Matric Scholarship for OBC",
+    "category_en": "Education",
+    "category_kn": "ಶಿಕ್ಷಣ",
+    "target_group_en": "OBC students",
+    "target_group_kn": "ಒಬಿಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Kisan Samman Nidhi Installment Registration",
+    "title_kn": "ಪಿಎಂ ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ ನೋಂದಣಿ",
+    "description_en": "PM Kisan Samman Nidhi Installment Registration provides government support under the Agriculture category for Farmers.",
+    "description_kn": "ಪಿಎಂ ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ ನೋಂದಣಿ - ರೈತರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Farmers.",
+    "benefits_kn": "ಅರ್ಹ ರೈತರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Farmers residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ರೈತರು.",
+    "keywords_en": [
+      "agriculture",
+      "farmers"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ ನೋಂದಣಿ"
+    ],
+    "deadline": "2026-04-22",
+    "category": "Agriculture",
+    "state": "All India",
+    "target_group": "Farmers",
+    "scheme_name": "PM Kisan Samman Nidhi Installment Registration",
+    "category_en": "Agriculture",
+    "category_kn": "ಕೃಷಿ",
+    "target_group_en": "Farmers",
+    "target_group_kn": "ರೈತರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Mudra Yojana Shishu Loan Drive",
+    "title_kn": "ಮುದ್ರಾ ಯೋಜನೆ ಶಿಶು ಸಾಲ",
+    "description_en": "Mudra Yojana Shishu Loan Drive provides government support under the Employment category for Entrepreneurs.",
+    "description_kn": "ಮುದ್ರಾ ಯೋಜನೆ ಶಿಶು ಸಾಲ - ಉದ್ಯಮಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Entrepreneurs.",
+    "benefits_kn": "ಅರ್ಹ ಉದ್ಯಮಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Entrepreneurs residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಉದ್ಯಮಿಗಳು.",
+    "keywords_en": [
+      "employment",
+      "entrepreneurs"
+    ],
+    "keywords_kn": [
+      "ಮುದ್ರಾ ಯೋಜನೆ ಶಿಶು ಸಾಲ"
+    ],
+    "deadline": "2026-04-24",
+    "category": "Employment",
+    "state": "All India",
+    "target_group": "Entrepreneurs",
+    "scheme_name": "Mudra Yojana Shishu Loan Drive",
+    "category_en": "Employment",
+    "category_kn": "ಉದ್ಯೋಗ",
+    "target_group_en": "Entrepreneurs",
+    "target_group_kn": "ಉದ್ಯಮಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Karnataka Vidyasiri Scholarship",
+    "title_kn": "ಕರ್ನಾಟಕ ವಿದ್ಯಾಸಿರಿ ವಿದ್ಯಾರ್ಥಿವೇತನ",
+    "description_en": "Karnataka Vidyasiri Scholarship provides government support under the Education category for Students.",
+    "description_kn": "ಕರ್ನಾಟಕ ವಿದ್ಯಾಸಿರಿ ವಿದ್ಯಾರ್ಥಿವೇತನ - ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Students.",
+    "benefits_kn": "ಅರ್ಹ ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Students residing in Karnataka.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಕರ್ನಾಟಕ ನಲ್ಲಿ ವಾಸಿಸುವ ವಿದ್ಯಾರ್ಥಿಗಳು.",
+    "keywords_en": [
+      "education",
+      "students"
+    ],
+    "keywords_kn": [
+      "ಕರ್ನಾಟಕ ವಿದ್ಯಾಸಿರಿ ವಿದ್ಯಾರ್ಥಿವೇತನ"
+    ],
+    "deadline": "2026-04-26",
+    "category": "Education",
+    "state": "Karnataka",
+    "target_group": "Students",
+    "scheme_name": "Karnataka Vidyasiri Scholarship",
+    "category_en": "Education",
+    "category_kn": "ಶಿಕ್ಷಣ",
+    "target_group_en": "Students",
+    "target_group_kn": "ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "state_en": "Karnataka",
+    "state_kn": "ಕರ್ನಾಟಕ"
+  },
+  {
+    "title_en": "Stand Up India Application Window",
+    "title_kn": "ಸ್ಟ್ಯಾಂಡ್ ಅಪ್ ಇಂಡಿಯಾ ಅರ್ಜಿ",
+    "description_en": "Stand Up India Application Window provides government support under the Employment category for Women & SC/ST entrepreneurs.",
+    "description_kn": "ಸ್ಟ್ಯಾಂಡ್ ಅಪ್ ಇಂಡಿಯಾ ಅರ್ಜಿ - ಮಹಿಳೆಯರು & ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಉದ್ಯಮಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Women & SC/ST entrepreneurs.",
+    "benefits_kn": "ಅರ್ಹ ಮಹಿಳೆಯರು & ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಉದ್ಯಮಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Women & SC/ST entrepreneurs residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಮಹಿಳೆಯರು & ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಉದ್ಯಮಿಗಳು.",
+    "keywords_en": [
+      "employment",
+      "women",
+      "entrepreneurs"
+    ],
+    "keywords_kn": [
+      "ಸ್ಟ್ಯಾಂಡ್ ಅಪ್ ಇಂಡಿಯಾ ಅರ್ಜಿ"
+    ],
+    "deadline": "2026-04-27",
+    "category": "Employment",
+    "state": "All India",
+    "target_group": "Women & SC/ST entrepreneurs",
+    "scheme_name": "Stand Up India Application Window",
+    "category_en": "Employment",
+    "category_kn": "ಉದ್ಯೋಗ",
+    "target_group_en": "Women & SC/ST entrepreneurs",
+    "target_group_kn": "ಮಹಿಳಾ ಮತ್ತು ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಉದ್ಯಮಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Kisan Samman Nidhi",
+    "title_kn": "ಪಿಎಂ ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ",
+    "description_en": "PM Kisan Samman Nidhi provides government support under the Agriculture category for Farmer families.",
+    "description_kn": "ಪಿಎಂ ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ - ರೈತ ಕುಟುಂಬಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Farmer families.",
+    "benefits_kn": "ಅರ್ಹ ರೈತ ಕುಟುಂಬಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Farmer families residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ರೈತ ಕುಟುಂಬಗಳು.",
+    "keywords_en": [
+      "agriculture",
+      "farmer",
+      "families"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ"
+    ],
+    "deadline": "2026-12-31",
+    "category": "Agriculture",
+    "state": "All India",
+    "target_group": "Farmer families",
+    "scheme_name": "PM Kisan Samman Nidhi",
+    "category_en": "Agriculture",
+    "category_kn": "ಕೃಷಿ",
+    "target_group_en": "Farmer families",
+    "target_group_kn": "ರೈತ ಕುಟುಂಬಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Ayushman Bharat - PMJAY",
+    "title_kn": "ಆಯುಷ್ಮಾನ್ ಭಾರತ್ - ಪಿಎಂಜೆಎವೈ",
+    "description_en": "Ayushman Bharat - PMJAY provides government support under the Healthcare category for BPL families.",
+    "description_kn": "ಆಯುಷ್ಮಾನ್ ಭಾರತ್ - ಪಿಎಂಜೆಎವೈ - ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible BPL families.",
+    "benefits_kn": "ಅರ್ಹ ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: BPL families residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳು.",
+    "keywords_en": [
+      "healthcare",
+      "bpl",
+      "families"
+    ],
+    "keywords_kn": [
+      "ಆಯುಷ್ಮಾನ್ ಭಾರತ್ - ಪಿಎಂಜೆಎವೈ"
+    ],
+    "deadline": null,
+    "category": "Healthcare",
+    "state": "All India",
+    "target_group": "BPL families",
+    "scheme_name": "Ayushman Bharat - PMJAY",
+    "category_en": "Healthcare",
+    "category_kn": "ಆರೋಗ್ಯ",
+    "target_group_en": "BPL families",
+    "target_group_kn": "ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Awas Yojana (Urban)",
+    "title_kn": "ಪಿಎಂ ಆವಾಸ್ ಯೋಜನೆ (ನಗರ)",
+    "description_en": "PM Awas Yojana (Urban) provides government support under the Housing category for Urban poor.",
+    "description_kn": "ಪಿಎಂ ಆವಾಸ್ ಯೋಜನೆ (ನಗರ) - ನಗರ ಬಡವರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Urban poor.",
+    "benefits_kn": "ಅರ್ಹ ನಗರ ಬಡವರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Urban poor residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ನಗರ ಬಡವರು.",
+    "keywords_en": [
+      "housing",
+      "urban",
+      "poor"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ಆವಾಸ್ ಯೋಜನೆ (ನಗರ)"
+    ],
+    "deadline": "2026-06-30",
+    "category": "Housing",
+    "state": "All India",
+    "target_group": "Urban poor",
+    "scheme_name": "PM Awas Yojana (Urban)",
+    "category_en": "Housing",
+    "category_kn": "ವಸತಿ",
+    "target_group_en": "Urban poor",
+    "target_group_kn": "ನಗರ ಬಡವರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Awas Yojana (Gramin)",
+    "title_kn": "ಪಿಎಂ ಆವಾಸ್ ಯೋಜನೆ (ಗ್ರಾಮೀಣ)",
+    "description_en": "PM Awas Yojana (Gramin) provides government support under the Housing category for Rural poor.",
+    "description_kn": "ಪಿಎಂ ಆವಾಸ್ ಯೋಜನೆ (ಗ್ರಾಮೀಣ) - ಗ್ರಾಮೀಣ ಬಡವರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Rural poor.",
+    "benefits_kn": "ಅರ್ಹ ಗ್ರಾಮೀಣ ಬಡವರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Rural poor residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಗ್ರಾಮೀಣ ಬಡವರು.",
+    "keywords_en": [
+      "housing",
+      "rural",
+      "poor"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ಆವಾಸ್ ಯೋಜನೆ (ಗ್ರಾಮೀಣ)"
+    ],
+    "deadline": "2027-03-31",
+    "category": "Housing",
+    "state": "All India",
+    "target_group": "Rural poor",
+    "scheme_name": "PM Awas Yojana (Gramin)",
+    "category_en": "Housing",
+    "category_kn": "ವಸತಿ",
+    "target_group_en": "Rural poor",
+    "target_group_kn": "ಗ್ರಾಮೀಣ ಬಡವರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Beti Bachao Beti Padhao",
+    "title_kn": "ಬೇಟಿ ಬಚಾವೋ ಬೇಟಿ ಪಢಾವೋ",
+    "description_en": "Beti Bachao Beti Padhao provides government support under the Women & Child category for Girl child.",
+    "description_kn": "ಬೇಟಿ ಬಚಾವೋ ಬೇಟಿ ಪಢಾವೋ - ಹೆಣ್ಣು ಮಗು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Girl child.",
+    "benefits_kn": "ಅರ್ಹ ಹೆಣ್ಣು ಮಗು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Girl child residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಹೆಣ್ಣು ಮಗು.",
+    "keywords_en": [
+      "women",
+      "child",
+      "girl",
+      "child"
+    ],
+    "keywords_kn": [
+      "ಬೇಟಿ ಬಚಾವೋ ಬೇಟಿ ಪಢಾವೋ"
+    ],
+    "deadline": null,
+    "category": "Women & Child",
+    "state": "All India",
+    "target_group": "Girl child",
+    "scheme_name": "Beti Bachao Beti Padhao",
+    "category_en": "Women & Child",
+    "category_kn": "ಮಹಿಳೆ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ",
+    "target_group_en": "Girl child",
+    "target_group_kn": "ಹೆಣ್ಣು ಮಗು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Sukanya Samriddhi Yojana",
+    "title_kn": "ಸುಕನ್ಯಾ ಸಮೃದ್ಧಿ ಯೋಜನೆ",
+    "description_en": "Sukanya Samriddhi Yojana provides government support under the Women & Child category for Girl child under 10.",
+    "description_kn": "ಸುಕನ್ಯಾ ಸಮೃದ್ಧಿ ಯೋಜನೆ - 10 ವರ್ಷಕ್ಕಿಂತ ಕಡಿಮೆ ವಯಸ್ಸಿನ ಹೆಣ್ಣು ಮಗು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Girl child under 10.",
+    "benefits_kn": "ಅರ್ಹ 10 ವರ್ಷಕ್ಕಿಂತ ಕಡಿಮೆ ವಯಸ್ಸಿನ ಹೆಣ್ಣು ಮಗು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Girl child under 10 residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ 10 ವರ್ಷಕ್ಕಿಂತ ಕಡಿಮೆ ವಯಸ್ಸಿನ ಹೆಣ್ಣು ಮಗು.",
+    "keywords_en": [
+      "women",
+      "child",
+      "girl",
+      "child",
+      "under"
+    ],
+    "keywords_kn": [
+      "ಸುಕನ್ಯಾ ಸಮೃದ್ಧಿ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Women & Child",
+    "state": "All India",
+    "target_group": "Girl child under 10",
+    "scheme_name": "Sukanya Samriddhi Yojana",
+    "category_en": "Women & Child",
+    "category_kn": "ಮಹಿಳೆ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ",
+    "target_group_en": "Girl child under 10",
+    "target_group_kn": "10 ವರ್ಷಕ್ಕಿಂತ ಕಡಿಮೆ ವಯಸ್ಸಿನ ಹೆಣ್ಣು ಮಗು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Vishwakarma Yojana",
+    "title_kn": "ಪಿಎಂ ವಿಶ್ವಕರ್ಮ ಯೋಜನೆ",
+    "description_en": "PM Vishwakarma Yojana provides government support under the Skill Development category for Artisans.",
+    "description_kn": "ಪಿಎಂ ವಿಶ್ವಕರ್ಮ ಯೋಜನೆ - ಕುಶಲಕರ್ಮಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Artisans.",
+    "benefits_kn": "ಅರ್ಹ ಕುಶಲಕರ್ಮಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Artisans residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಕುಶಲಕರ್ಮಿಗಳು.",
+    "keywords_en": [
+      "skill",
+      "development",
+      "artisans"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ವಿಶ್ವಕರ್ಮ ಯೋಜನೆ"
+    ],
+    "deadline": "2027-03-31",
+    "category": "Skill Development",
+    "state": "All India",
+    "target_group": "Artisans",
+    "scheme_name": "PM Vishwakarma Yojana",
+    "category_en": "Skill Development",
+    "category_kn": "ಕೌಶಲ್ಯ ಅಭಿವೃದ್ಧಿ",
+    "target_group_en": "Artisans",
+    "target_group_kn": "ಕುಶಲಕರ್ಮಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Mudra Yojana (Kishore)",
+    "title_kn": "ಪಿಎಂ ಮುದ್ರಾ ಯೋಜನೆ (ಕಿಶೋರ್)",
+    "description_en": "PM Mudra Yojana (Kishore) provides government support under the Employment category for Small entrepreneurs.",
+    "description_kn": "ಪಿಎಂ ಮುದ್ರಾ ಯೋಜನೆ (ಕಿಶೋರ್) - ಉದ್ಯಮಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Small entrepreneurs.",
+    "benefits_kn": "ಅರ್ಹ ಉದ್ಯಮಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Small entrepreneurs residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಉದ್ಯಮಿಗಳು.",
+    "keywords_en": [
+      "employment",
+      "small",
+      "entrepreneurs"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ಮುದ್ರಾ ಯೋಜನೆ (ಕಿಶೋರ್)"
+    ],
+    "deadline": "2026-12-31",
+    "category": "Employment",
+    "state": "All India",
+    "target_group": "Small entrepreneurs",
+    "scheme_name": "PM Mudra Yojana (Kishore)",
+    "category_en": "Employment",
+    "category_kn": "ಉದ್ಯೋಗ",
+    "target_group_en": "Small entrepreneurs",
+    "target_group_kn": "ಸಣ್ಣ ಉದ್ಯಮಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Mudra Yojana (Tarun)",
+    "title_kn": "ಪಿಎಂ ಮುದ್ರಾ ಯೋಜನೆ (ತರುಣ್)",
+    "description_en": "PM Mudra Yojana (Tarun) provides government support under the Employment category for Entrepreneurs.",
+    "description_kn": "ಪಿಎಂ ಮುದ್ರಾ ಯೋಜನೆ (ತರುಣ್) - ಉದ್ಯಮಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Entrepreneurs.",
+    "benefits_kn": "ಅರ್ಹ ಉದ್ಯಮಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Entrepreneurs residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಉದ್ಯಮಿಗಳು.",
+    "keywords_en": [
+      "employment",
+      "entrepreneurs"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ಮುದ್ರಾ ಯೋಜನೆ (ತರುಣ್)"
+    ],
+    "deadline": "2026-12-31",
+    "category": "Employment",
+    "state": "All India",
+    "target_group": "Entrepreneurs",
+    "scheme_name": "PM Mudra Yojana (Tarun)",
+    "category_en": "Employment",
+    "category_kn": "ಉದ್ಯೋಗ",
+    "target_group_en": "Entrepreneurs",
+    "target_group_kn": "ಉದ್ಯಮಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Atal Pension Yojana",
+    "title_kn": "ಅಟಲ್ ಪಿಂಚಣಿ ಯೋಜನೆ",
+    "description_en": "Atal Pension Yojana provides government support under the Pension category for Unorganised workers.",
+    "description_kn": "ಅಟಲ್ ಪಿಂಚಣಿ ಯೋಜನೆ - ಅಸಂಘಟಿತ ಕಾರ್ಮಿಕರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Unorganised workers.",
+    "benefits_kn": "ಅರ್ಹ ಅಸಂಘಟಿತ ಕಾರ್ಮಿಕರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Unorganised workers residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಅಸಂಘಟಿತ ಕಾರ್ಮಿಕರು.",
+    "keywords_en": [
+      "pension",
+      "unorganised",
+      "workers"
+    ],
+    "keywords_kn": [
+      "ಅಟಲ್ ಪಿಂಚಣಿ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Pension",
+    "state": "All India",
+    "target_group": "Unorganised workers",
+    "scheme_name": "Atal Pension Yojana",
+    "category_en": "Pension",
+    "category_kn": "ಪಿಂಚಣಿ",
+    "target_group_en": "Unorganised workers",
+    "target_group_kn": "ಅಸಂಘಟಿತ ಕಾರ್ಮಿಕರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Jan Dhan Yojana",
+    "title_kn": "ಪಿಎಂ ಜನ್ ಧನ್ ಯೋಜನೆ",
+    "description_en": "PM Jan Dhan Yojana provides government support under the Financial Inclusion category for All citizens.",
+    "description_kn": "ಪಿಎಂ ಜನ್ ಧನ್ ಯೋಜನೆ - ಎಲ್ಲ ನಾಗರಿಕರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible All citizens.",
+    "benefits_kn": "ಅರ್ಹ ಎಲ್ಲ ನಾಗರಿಕರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: All citizens residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಎಲ್ಲ ನಾಗರಿಕರು.",
+    "keywords_en": [
+      "financial",
+      "inclusion",
+      "all",
+      "citizens"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ಜನ್ ಧನ್ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Financial Inclusion",
+    "state": "All India",
+    "target_group": "All citizens",
+    "scheme_name": "PM Jan Dhan Yojana",
+    "category_en": "Financial Inclusion",
+    "category_kn": "ಹಣಕಾಸು ಒಳಗೊಳ್ಳಿಕೆ",
+    "target_group_en": "All citizens",
+    "target_group_kn": "ಎಲ್ಲ ನಾಗರಿಕರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Jeevan Jyoti Bima Yojana",
+    "title_kn": "ಪಿಎಂ ಜೀವನ್ ಜ್ಯೋತಿ ಬಿಮಾ ಯೋಜನೆ",
+    "description_en": "PM Jeevan Jyoti Bima Yojana provides government support under the Insurance category for Adults 18-50.",
+    "description_kn": "ಪಿಎಂ ಜೀವನ್ ಜ್ಯೋತಿ ಬಿಮಾ ಯೋಜನೆ - 18-50 ವಯಸ್ಸಿನ ವಯಸ್ಕರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Adults 18-50.",
+    "benefits_kn": "ಅರ್ಹ 18-50 ವಯಸ್ಸಿನ ವಯಸ್ಕರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Adults 18-50 residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ 18-50 ವಯಸ್ಸಿನ ವಯಸ್ಕರು.",
+    "keywords_en": [
+      "insurance",
+      "adults"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ಜೀವನ್ ಜ್ಯೋತಿ ಬಿಮಾ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Insurance",
+    "state": "All India",
+    "target_group": "Adults 18-50",
+    "scheme_name": "PM Jeevan Jyoti Bima Yojana",
+    "category_en": "Insurance",
+    "category_kn": "ವಿಮೆ",
+    "target_group_en": "Adults 18-50",
+    "target_group_kn": "18-50 ವಯಸ್ಸಿನ ವಯಸ್ಕರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Suraksha Bima Yojana",
+    "title_kn": "ಪಿಎಂ ಸುರಕ್ಷಾ ಬಿಮಾ ಯೋಜನೆ",
+    "description_en": "PM Suraksha Bima Yojana provides government support under the Insurance category for Adults 18-70.",
+    "description_kn": "ಪಿಎಂ ಸುರಕ್ಷಾ ಬಿಮಾ ಯೋಜನೆ - 18-70 ವಯಸ್ಸಿನ ವಯಸ್ಕರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Adults 18-70.",
+    "benefits_kn": "ಅರ್ಹ 18-70 ವಯಸ್ಸಿನ ವಯಸ್ಕರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Adults 18-70 residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ 18-70 ವಯಸ್ಸಿನ ವಯಸ್ಕರು.",
+    "keywords_en": [
+      "insurance",
+      "adults"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ಸುರಕ್ಷಾ ಬಿಮಾ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Insurance",
+    "state": "All India",
+    "target_group": "Adults 18-70",
+    "scheme_name": "PM Suraksha Bima Yojana",
+    "category_en": "Insurance",
+    "category_kn": "ವಿಮೆ",
+    "target_group_en": "Adults 18-70",
+    "target_group_kn": "18-70 ವಯಸ್ಸಿನ ವಯಸ್ಕರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "National Pension Scheme",
+    "title_kn": "ರಾಷ್ಟ್ರೀಯ ಪಿಂಚಣಿ ಯೋಜನೆ",
+    "description_en": "National Pension Scheme provides government support under the Pension category for Adults 18-65.",
+    "description_kn": "ರಾಷ್ಟ್ರೀಯ ಪಿಂಚಣಿ ಯೋಜನೆ - 18-65 ವಯಸ್ಸಿನ ವಯಸ್ಕರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Adults 18-65.",
+    "benefits_kn": "ಅರ್ಹ 18-65 ವಯಸ್ಸಿನ ವಯಸ್ಕರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Adults 18-65 residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ 18-65 ವಯಸ್ಸಿನ ವಯಸ್ಕರು.",
+    "keywords_en": [
+      "pension",
+      "adults"
+    ],
+    "keywords_kn": [
+      "ರಾಷ್ಟ್ರೀಯ ಪಿಂಚಣಿ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Pension",
+    "state": "All India",
+    "target_group": "Adults 18-65",
+    "scheme_name": "National Pension Scheme",
+    "category_en": "Pension",
+    "category_kn": "ಪಿಂಚಣಿ",
+    "target_group_en": "Adults 18-65",
+    "target_group_kn": "18-65 ವಯಸ್ಸಿನ ವಯಸ್ಕರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Indira Gandhi National Old Age Pension",
+    "title_kn": "ಇಂದಿರಾ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ವೃದ್ಧಾಪ್ಯ ಪಿಂಚಣಿ",
+    "description_en": "Indira Gandhi National Old Age Pension provides government support under the Pension category for Senior citizens.",
+    "description_kn": "ಇಂದಿರಾ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ವೃದ್ಧಾಪ್ಯ ಪಿಂಚಣಿ - ಹಿರಿಯ ನಾಗರಿಕರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Senior citizens.",
+    "benefits_kn": "ಅರ್ಹ ಹಿರಿಯ ನಾಗರಿಕರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Senior citizens residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಹಿರಿಯ ನಾಗರಿಕರು.",
+    "keywords_en": [
+      "pension",
+      "senior",
+      "citizens"
+    ],
+    "keywords_kn": [
+      "ಇಂದಿರಾ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ವೃದ್ಧಾಪ್ಯ ಪಿಂಚಣಿ"
+    ],
+    "deadline": null,
+    "category": "Pension",
+    "state": "All India",
+    "target_group": "Senior citizens",
+    "scheme_name": "Indira Gandhi National Old Age Pension",
+    "category_en": "Pension",
+    "category_kn": "ಪಿಂಚಣಿ",
+    "target_group_en": "Senior citizens",
+    "target_group_kn": "ಹಿರಿಯ ನಾಗರಿಕರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Indira Gandhi National Widow Pension",
+    "title_kn": "ಇಂದಿರಾ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ವಿಧವಾ ಪಿಂಚಣಿ",
+    "description_en": "Indira Gandhi National Widow Pension provides government support under the Pension category for Widows.",
+    "description_kn": "ಇಂದಿರಾ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ವಿಧವಾ ಪಿಂಚಣಿ - ವಿಧವೆಯರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Widows.",
+    "benefits_kn": "ಅರ್ಹ ವಿಧವೆಯರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Widows residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ವಿಧವೆಯರು.",
+    "keywords_en": [
+      "pension",
+      "widows"
+    ],
+    "keywords_kn": [
+      "ಇಂದಿರಾ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ವಿಧವಾ ಪಿಂಚಣಿ"
+    ],
+    "deadline": null,
+    "category": "Pension",
+    "state": "All India",
+    "target_group": "Widows",
+    "scheme_name": "Indira Gandhi National Widow Pension",
+    "category_en": "Pension",
+    "category_kn": "ಪಿಂಚಣಿ",
+    "target_group_en": "Widows",
+    "target_group_kn": "ವಿಧವೆಯರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Indira Gandhi National Disability Pension",
+    "title_kn": "ಇಂದಿರಾ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ಅಂಗವಿಕಲ ಪಿಂಚಣಿ",
+    "description_en": "Indira Gandhi National Disability Pension provides government support under the Pension category for Disabled persons.",
+    "description_kn": "ಇಂದಿರಾ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ಅಂಗವಿಕಲ ಪಿಂಚಣಿ - ಅಂಗವಿಕಲ ವ್ಯಕ್ತಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Disabled persons.",
+    "benefits_kn": "ಅರ್ಹ ಅಂಗವಿಕಲ ವ್ಯಕ್ತಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Disabled persons residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಅಂಗವಿಕಲ ವ್ಯಕ್ತಿಗಳು.",
+    "keywords_en": [
+      "pension",
+      "disabled",
+      "persons"
+    ],
+    "keywords_kn": [
+      "ಇಂದಿರಾ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ಅಂಗವಿಕಲ ಪಿಂಚಣಿ"
+    ],
+    "deadline": null,
+    "category": "Pension",
+    "state": "All India",
+    "target_group": "Disabled persons",
+    "scheme_name": "Indira Gandhi National Disability Pension",
+    "category_en": "Pension",
+    "category_kn": "ಪಿಂಚಣಿ",
+    "target_group_en": "Disabled persons",
+    "target_group_kn": "ಅಂಗವಿಕಲ ವ್ಯಕ್ತಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Pradhan Mantri Matru Vandana Yojana",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಮಾತೃ ವಂದನಾ ಯೋಜನೆ",
+    "description_en": "Pradhan Mantri Matru Vandana Yojana provides government support under the Women & Child category for Pregnant women.",
+    "description_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಮಾತೃ ವಂದನಾ ಯೋಜನೆ - ಗರ್ಭಿಣಿ ಮಹಿಳೆಯರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Pregnant women.",
+    "benefits_kn": "ಅರ್ಹ ಗರ್ಭಿಣಿ ಮಹಿಳೆಯರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Pregnant women residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಗರ್ಭಿಣಿ ಮಹಿಳೆಯರು.",
+    "keywords_en": [
+      "women",
+      "child",
+      "pregnant",
+      "women"
+    ],
+    "keywords_kn": [
+      "ಪ್ರಧಾನ ಮಂತ್ರಿ ಮಾತೃ ವಂದನಾ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Women & Child",
+    "state": "All India",
+    "target_group": "Pregnant women",
+    "scheme_name": "Pradhan Mantri Matru Vandana Yojana",
+    "category_en": "Women & Child",
+    "category_kn": "ಮಹಿಳೆ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ",
+    "target_group_en": "Pregnant women",
+    "target_group_kn": "ಗರ್ಭಿಣಿ ಮಹಿಳೆಯರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Janani Suraksha Yojana",
+    "title_kn": "ಜನನಿ ಸುರಕ್ಷಾ ಯೋಜನೆ",
+    "description_en": "Janani Suraksha Yojana provides government support under the Healthcare category for Pregnant women.",
+    "description_kn": "ಜನನಿ ಸುರಕ್ಷಾ ಯೋಜನೆ - ಗರ್ಭಿಣಿ ಮಹಿಳೆಯರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Pregnant women.",
+    "benefits_kn": "ಅರ್ಹ ಗರ್ಭಿಣಿ ಮಹಿಳೆಯರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Pregnant women residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಗರ್ಭಿಣಿ ಮಹಿಳೆಯರು.",
+    "keywords_en": [
+      "healthcare",
+      "pregnant",
+      "women"
+    ],
+    "keywords_kn": [
+      "ಜನನಿ ಸುರಕ್ಷಾ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Healthcare",
+    "state": "All India",
+    "target_group": "Pregnant women",
+    "scheme_name": "Janani Suraksha Yojana",
+    "category_en": "Healthcare",
+    "category_kn": "ಆರೋಗ್ಯ",
+    "target_group_en": "Pregnant women",
+    "target_group_kn": "ಗರ್ಭಿಣಿ ಮಹಿಳೆಯರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Mid Day Meal Scheme",
+    "title_kn": "ಮಧ್ಯಾಹ್ನದ ಊಟ ಯೋಜನೆ",
+    "description_en": "Mid Day Meal Scheme provides government support under the Education category for School children.",
+    "description_kn": "ಮಧ್ಯಾಹ್ನದ ಊಟ ಯೋಜನೆ - ಶಾಲಾ ಮಕ್ಕಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible School children.",
+    "benefits_kn": "ಅರ್ಹ ಶಾಲಾ ಮಕ್ಕಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: School children residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಶಾಲಾ ಮಕ್ಕಳು.",
+    "keywords_en": [
+      "education",
+      "school",
+      "children"
+    ],
+    "keywords_kn": [
+      "ಮಧ್ಯಾಹ್ನದ ಊಟ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Education",
+    "state": "All India",
+    "target_group": "School children",
+    "scheme_name": "Mid Day Meal Scheme",
+    "category_en": "Education",
+    "category_kn": "ಶಿಕ್ಷಣ",
+    "target_group_en": "School children",
+    "target_group_kn": "ಶಾಲಾ ಮಕ್ಕಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Samagra Shiksha Abhiyan",
+    "title_kn": "ಸಮಗ್ರ ಶಿಕ್ಷಣ ಅಭಿಯಾನ",
+    "description_en": "Samagra Shiksha Abhiyan provides government support under the Education category for School students.",
+    "description_kn": "ಸಮಗ್ರ ಶಿಕ್ಷಣ ಅಭಿಯಾನ - ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible School students.",
+    "benefits_kn": "ಅರ್ಹ ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: School students residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ವಿದ್ಯಾರ್ಥಿಗಳು.",
+    "keywords_en": [
+      "education",
+      "school",
+      "students"
+    ],
+    "keywords_kn": [
+      "ಸಮಗ್ರ ಶಿಕ್ಷಣ ಅಭಿಯಾನ"
+    ],
+    "deadline": null,
+    "category": "Education",
+    "state": "All India",
+    "target_group": "School students",
+    "scheme_name": "Samagra Shiksha Abhiyan",
+    "category_en": "Education",
+    "category_kn": "ಶಿಕ್ಷಣ",
+    "target_group_en": "School students",
+    "target_group_kn": "ಶಾಲಾ ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "National Means cum Merit Scholarship",
+    "title_kn": "ರಾಷ್ಟ್ರೀಯ ಮೆರಿಟ್ ವಿದ್ಯಾರ್ಥಿವೇತನ",
+    "description_en": "National Means cum Merit Scholarship provides government support under the Education category for Class 9-12 students.",
+    "description_kn": "ರಾಷ್ಟ್ರೀಯ ಮೆರಿಟ್ ವಿದ್ಯಾರ್ಥಿವೇತನ - 9-12 ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Class 9-12 students.",
+    "benefits_kn": "ಅರ್ಹ 9-12 ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Class 9-12 students residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ 9-12 ವಿದ್ಯಾರ್ಥಿಗಳು.",
+    "keywords_en": [
+      "education",
+      "class",
+      "students"
+    ],
+    "keywords_kn": [
+      "ರಾಷ್ಟ್ರೀಯ ಮೆರಿಟ್ ವಿದ್ಯಾರ್ಥಿವೇತನ"
+    ],
+    "deadline": "2026-09-30",
+    "category": "Education",
+    "state": "All India",
+    "target_group": "Class 9-12 students",
+    "scheme_name": "National Means cum Merit Scholarship",
+    "category_en": "Education",
+    "category_kn": "ಶಿಕ್ಷಣ",
+    "target_group_en": "Class 9-12 students",
+    "target_group_kn": "9-12ನೇ ತರಗತಿ ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "AICTE Pragati Scholarship for Girls",
+    "title_kn": "ಎಐಸಿಟಿಇ ಪ್ರಗತಿ ಬಾಲಕಿಯರ ವಿದ್ಯಾರ್ಥಿವೇತನ",
+    "description_en": "AICTE Pragati Scholarship for Girls provides government support under the Education category for Girl students.",
+    "description_kn": "ಎಐಸಿಟಿಇ ಪ್ರಗತಿ ಬಾಲಕಿಯರ ವಿದ್ಯಾರ್ಥಿವೇತನ - ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Girl students.",
+    "benefits_kn": "ಅರ್ಹ ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Girl students residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ವಿದ್ಯಾರ್ಥಿಗಳು.",
+    "keywords_en": [
+      "education",
+      "girl",
+      "students"
+    ],
+    "keywords_kn": [
+      "ಎಐಸಿಟಿಇ ಪ್ರಗತಿ ಬಾಲಕಿಯರ ವಿದ್ಯಾರ್ಥಿವೇತನ"
+    ],
+    "deadline": "2026-10-31",
+    "category": "Education",
+    "state": "All India",
+    "target_group": "Girl students",
+    "scheme_name": "AICTE Pragati Scholarship for Girls",
+    "category_en": "Education",
+    "category_kn": "ಶಿಕ್ಷಣ",
+    "target_group_en": "Girl students",
+    "target_group_kn": "ವಿದ್ಯಾರ್ಥಿನಿಯರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "AICTE Saksham Scholarship for Disabled",
+    "title_kn": "ಎಐಸಿಟಿಇ ಸಕ್ಷಮ್ ಅಂಗವಿಕಲ ವಿದ್ಯಾರ್ಥಿವೇತನ",
+    "description_en": "AICTE Saksham Scholarship for Disabled provides government support under the Education category for Disabled students.",
+    "description_kn": "ಎಐಸಿಟಿಇ ಸಕ್ಷಮ್ ಅಂಗವಿಕಲ ವಿದ್ಯಾರ್ಥಿವೇತನ - ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Disabled students.",
+    "benefits_kn": "ಅರ್ಹ ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Disabled students residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ವಿದ್ಯಾರ್ಥಿಗಳು.",
+    "keywords_en": [
+      "education",
+      "disabled",
+      "students"
+    ],
+    "keywords_kn": [
+      "ಎಐಸಿಟಿಇ ಸಕ್ಷಮ್ ಅಂಗವಿಕಲ ವಿದ್ಯಾರ್ಥಿವೇತನ"
+    ],
+    "deadline": "2026-10-31",
+    "category": "Education",
+    "state": "All India",
+    "target_group": "Disabled students",
+    "scheme_name": "AICTE Saksham Scholarship for Disabled",
+    "category_en": "Education",
+    "category_kn": "ಶಿಕ್ಷಣ",
+    "target_group_en": "Disabled students",
+    "target_group_kn": "ಅಂಗವಿಕಲ ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "INSPIRE Scholarship",
+    "title_kn": "ಇನ್‍ಸ್ಪೈರ್ ವಿದ್ಯಾರ್ಥಿವೇತನ",
+    "description_en": "INSPIRE Scholarship provides government support under the Education category for Science students.",
+    "description_kn": "ಇನ್‍ಸ್ಪೈರ್ ವಿದ್ಯಾರ್ಥಿವೇತನ - ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Science students.",
+    "benefits_kn": "ಅರ್ಹ ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Science students residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ವಿದ್ಯಾರ್ಥಿಗಳು.",
+    "keywords_en": [
+      "education",
+      "science",
+      "students"
+    ],
+    "keywords_kn": [
+      "ಇನ್‍ಸ್ಪೈರ್ ವಿದ್ಯಾರ್ಥಿವೇತನ"
+    ],
+    "deadline": "2026-11-30",
+    "category": "Education",
+    "state": "All India",
+    "target_group": "Science students",
+    "scheme_name": "INSPIRE Scholarship",
+    "category_en": "Education",
+    "category_kn": "ಶಿಕ್ಷಣ",
+    "target_group_en": "Science students",
+    "target_group_kn": "ವಿಜ್ಞಾನ ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Stand Up India",
+    "title_kn": "ಸ್ಟ್ಯಾಂಡ್ ಅಪ್ ಇಂಡಿಯಾ",
+    "description_en": "Stand Up India provides government support under the Employment category for Women & SC/ST.",
+    "description_kn": "ಸ್ಟ್ಯಾಂಡ್ ಅಪ್ ಇಂಡಿಯಾ - ಮಹಿಳೆಯರು & ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Women & SC/ST.",
+    "benefits_kn": "ಅರ್ಹ ಮಹಿಳೆಯರು & ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Women & SC/ST residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಮಹಿಳೆಯರು & ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ.",
+    "keywords_en": [
+      "employment",
+      "women"
+    ],
+    "keywords_kn": [
+      "ಸ್ಟ್ಯಾಂಡ್ ಅಪ್ ಇಂಡಿಯಾ"
+    ],
+    "deadline": "2027-03-31",
+    "category": "Employment",
+    "state": "All India",
+    "target_group": "Women & SC/ST",
+    "scheme_name": "Stand Up India",
+    "category_en": "Employment",
+    "category_kn": "ಉದ್ಯೋಗ",
+    "target_group_en": "Women & SC/ST",
+    "target_group_kn": "ಮಹಿಳೆಯರು ಮತ್ತು ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ವರ್ಗಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Startup India Seed Fund",
+    "title_kn": "ಸ್ಟಾರ್ಟ್‍ಅಪ್ ಇಂಡಿಯಾ ಸೀಡ್ ಫಂಡ್",
+    "description_en": "Startup India Seed Fund provides government support under the Employment category for Startups.",
+    "description_kn": "ಸ್ಟಾರ್ಟ್‍ಅಪ್ ಇಂಡಿಯಾ ಸೀಡ್ ಫಂಡ್ - ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Startups.",
+    "benefits_kn": "ಅರ್ಹ ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Startups residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ.",
+    "keywords_en": [
+      "employment",
+      "startups"
+    ],
+    "keywords_kn": [
+      "ಸ್ಟಾರ್ಟ್‍ಅಪ್ ಇಂಡಿಯಾ ಸೀಡ್ ಫಂಡ್"
+    ],
+    "deadline": "2026-12-31",
+    "category": "Employment",
+    "state": "All India",
+    "target_group": "Startups",
+    "scheme_name": "Startup India Seed Fund",
+    "category_en": "Employment",
+    "category_kn": "ಉದ್ಯೋಗ",
+    "target_group_en": "Startups",
+    "target_group_kn": "ಸ್ಟಾರ್ಟ್‌ಅಪ್‌ಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Skill India - PMKVY",
+    "title_kn": "ಸ್ಕಿಲ್ ಇಂಡಿಯಾ - ಪಿಎಂಕೆವಿವೈ",
+    "description_en": "Skill India - PMKVY provides government support under the Skill Development category for Youth 15-45.",
+    "description_kn": "ಸ್ಕಿಲ್ ಇಂಡಿಯಾ - ಪಿಎಂಕೆವಿವೈ - ಯುವಕರು 15-45 ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Youth 15-45.",
+    "benefits_kn": "ಅರ್ಹ ಯುವಕರು 15-45 ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Youth 15-45 residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಯುವಕರು 15-45.",
+    "keywords_en": [
+      "skill",
+      "development",
+      "youth"
+    ],
+    "keywords_kn": [
+      "ಸ್ಕಿಲ್ ಇಂಡಿಯಾ - ಪಿಎಂಕೆವಿವೈ"
+    ],
+    "deadline": "2027-03-31",
+    "category": "Skill Development",
+    "state": "All India",
+    "target_group": "Youth 15-45",
+    "scheme_name": "Skill India - PMKVY",
+    "category_en": "Skill Development",
+    "category_kn": "ಕೌಶಲ್ಯ ಅಭಿವೃದ್ಧಿ",
+    "target_group_en": "Youth 15-45",
+    "target_group_kn": "15-45 ವಯಸ್ಸಿನ ಯುವಕರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Deen Dayal Antyodaya Yojana",
+    "title_kn": "ದೀನ್ ದಯಾಳ್ ಅಂತ್ಯೋದಯ ಯೋಜನೆ",
+    "description_en": "Deen Dayal Antyodaya Yojana provides government support under the Employment category for Rural poor.",
+    "description_kn": "ದೀನ್ ದಯಾಳ್ ಅಂತ್ಯೋದಯ ಯೋಜನೆ - ಗ್ರಾಮೀಣ ಬಡವರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Rural poor.",
+    "benefits_kn": "ಅರ್ಹ ಗ್ರಾಮೀಣ ಬಡವರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Rural poor residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಗ್ರಾಮೀಣ ಬಡವರು.",
+    "keywords_en": [
+      "employment",
+      "rural",
+      "poor"
+    ],
+    "keywords_kn": [
+      "ದೀನ್ ದಯಾಳ್ ಅಂತ್ಯೋದಯ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Employment",
+    "state": "All India",
+    "target_group": "Rural poor",
+    "scheme_name": "Deen Dayal Antyodaya Yojana",
+    "category_en": "Employment",
+    "category_kn": "ಉದ್ಯೋಗ",
+    "target_group_en": "Rural poor",
+    "target_group_kn": "ಗ್ರಾಮೀಣ ಬಡವರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "MGNREGA",
+    "title_kn": "ಮಹಾತ್ಮ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ಗ್ರಾಮೀಣ ಉದ್ಯೋಗ ಖಾತ್ರಿ",
+    "description_en": "MGNREGA provides government support under the Employment category for Rural households.",
+    "description_kn": "ಮಹಾತ್ಮ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ಗ್ರಾಮೀಣ ಉದ್ಯೋಗ ಖಾತ್ರಿ - ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Rural households.",
+    "benefits_kn": "ಅರ್ಹ ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Rural households residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ.",
+    "keywords_en": [
+      "employment",
+      "rural",
+      "households"
+    ],
+    "keywords_kn": [
+      "ಮಹಾತ್ಮ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ಗ್ರಾಮೀಣ ಉದ್ಯೋಗ ಖಾತ್ರಿ"
+    ],
+    "deadline": null,
+    "category": "Employment",
+    "state": "All India",
+    "target_group": "Rural households",
+    "scheme_name": "MGNREGA",
+    "category_en": "Employment",
+    "category_kn": "ಉದ್ಯೋಗ",
+    "target_group_en": "Rural households",
+    "target_group_kn": "ಗ್ರಾಮೀಣ ಕುಟುಂಬಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Kisan Maan Dhan Yojana",
+    "title_kn": "ಪಿಎಂ ಕಿಸಾನ್ ಮಾನ್ ಧನ್ ಯೋಜನೆ",
+    "description_en": "PM Kisan Maan Dhan Yojana provides government support under the Pension category for Small farmers.",
+    "description_kn": "ಪಿಎಂ ಕಿಸಾನ್ ಮಾನ್ ಧನ್ ಯೋಜನೆ - ರೈತರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Small farmers.",
+    "benefits_kn": "ಅರ್ಹ ರೈತರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Small farmers residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ರೈತರು.",
+    "keywords_en": [
+      "pension",
+      "small",
+      "farmers"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ಕಿಸಾನ್ ಮಾನ್ ಧನ್ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Pension",
+    "state": "All India",
+    "target_group": "Small farmers",
+    "scheme_name": "PM Kisan Maan Dhan Yojana",
+    "category_en": "Pension",
+    "category_kn": "ಪಿಂಚಣಿ",
+    "target_group_en": "Small farmers",
+    "target_group_kn": "ಸಣ್ಣ ರೈತರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Soil Health Card Scheme",
+    "title_kn": "ಮಣ್ಣು ಆರೋಗ್ಯ ಕಾರ್ಡ್ ಯೋಜನೆ",
+    "description_en": "Soil Health Card Scheme provides government support under the Agriculture category for Farmers.",
+    "description_kn": "ಮಣ್ಣು ಆರೋಗ್ಯ ಕಾರ್ಡ್ ಯೋಜನೆ - ರೈತರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Farmers.",
+    "benefits_kn": "ಅರ್ಹ ರೈತರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Farmers residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ರೈತರು.",
+    "keywords_en": [
+      "agriculture",
+      "farmers"
+    ],
+    "keywords_kn": [
+      "ಮಣ್ಣು ಆರೋಗ್ಯ ಕಾರ್ಡ್ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Agriculture",
+    "state": "All India",
+    "target_group": "Farmers",
+    "scheme_name": "Soil Health Card Scheme",
+    "category_en": "Agriculture",
+    "category_kn": "ಕೃಷಿ",
+    "target_group_en": "Farmers",
+    "target_group_kn": "ರೈತರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Fasal Bima Yojana",
+    "title_kn": "ಪಿಎಂ ಫಸಲ್ ಬಿಮಾ ಯೋಜನೆ",
+    "description_en": "PM Fasal Bima Yojana provides government support under the Agriculture category for Farmers.",
+    "description_kn": "ಪಿಎಂ ಫಸಲ್ ಬಿಮಾ ಯೋಜನೆ - ರೈತರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Farmers.",
+    "benefits_kn": "ಅರ್ಹ ರೈತರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Farmers residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ರೈತರು.",
+    "keywords_en": [
+      "agriculture",
+      "farmers"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ಫಸಲ್ ಬಿಮಾ ಯೋಜನೆ"
+    ],
+    "deadline": "2026-07-31",
+    "category": "Agriculture",
+    "state": "All India",
+    "target_group": "Farmers",
+    "scheme_name": "PM Fasal Bima Yojana",
+    "category_en": "Agriculture",
+    "category_kn": "ಕೃಷಿ",
+    "target_group_en": "Farmers",
+    "target_group_kn": "ರೈತರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Kisan Credit Card",
+    "title_kn": "ಕಿಸಾನ್ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್",
+    "description_en": "Kisan Credit Card provides government support under the Agriculture category for Farmers.",
+    "description_kn": "ಕಿಸಾನ್ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ - ರೈತರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Farmers.",
+    "benefits_kn": "ಅರ್ಹ ರೈತರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Farmers residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ರೈತರು.",
+    "keywords_en": [
+      "agriculture",
+      "farmers"
+    ],
+    "keywords_kn": [
+      "ಕಿಸಾನ್ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್"
+    ],
+    "deadline": null,
+    "category": "Agriculture",
+    "state": "All India",
+    "target_group": "Farmers",
+    "scheme_name": "Kisan Credit Card",
+    "category_en": "Agriculture",
+    "category_kn": "ಕೃಷಿ",
+    "target_group_en": "Farmers",
+    "target_group_kn": "ರೈತರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "PM Ujjwala Yojana",
+    "title_kn": "ಪಿಎಂ ಉಜ್ವಲಾ ಯೋಜನೆ",
+    "description_en": "PM Ujjwala Yojana provides government support under the Welfare category for BPL women.",
+    "description_kn": "ಪಿಎಂ ಉಜ್ವಲಾ ಯೋಜನೆ - ಬಿಪಿಎಲ್ ಮಹಿಳೆಯರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible BPL women.",
+    "benefits_kn": "ಅರ್ಹ ಬಿಪಿಎಲ್ ಮಹಿಳೆಯರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: BPL women residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಬಿಪಿಎಲ್ ಮಹಿಳೆಯರು.",
+    "keywords_en": [
+      "welfare",
+      "bpl",
+      "women"
+    ],
+    "keywords_kn": [
+      "ಪಿಎಂ ಉಜ್ವಲಾ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Welfare",
+    "state": "All India",
+    "target_group": "BPL women",
+    "scheme_name": "PM Ujjwala Yojana",
+    "category_en": "Welfare",
+    "category_kn": "ಕಲ್ಯಾಣ",
+    "target_group_en": "BPL women",
+    "target_group_kn": "ಬಿಪಿಎಲ್ ಮಹಿಳೆಯರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Saubhagya Scheme",
+    "title_kn": "ಸೌಭಾಗ್ಯ ಯೋಜನೆ",
+    "description_en": "Saubhagya Scheme provides government support under the Welfare category for Rural households.",
+    "description_kn": "ಸೌಭಾಗ್ಯ ಯೋಜನೆ - ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Rural households.",
+    "benefits_kn": "ಅರ್ಹ ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Rural households residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ.",
+    "keywords_en": [
+      "welfare",
+      "rural",
+      "households"
+    ],
+    "keywords_kn": [
+      "ಸೌಭಾಗ್ಯ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Welfare",
+    "state": "All India",
+    "target_group": "Rural households",
+    "scheme_name": "Saubhagya Scheme",
+    "category_en": "Welfare",
+    "category_kn": "ಕಲ್ಯಾಣ",
+    "target_group_en": "Rural households",
+    "target_group_kn": "ಗ್ರಾಮೀಣ ಕುಟುಂಬಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Swachh Bharat Mission",
+    "title_kn": "ಸ್ವಚ್ಛ ಭಾರತ ಮಿಷನ್",
+    "description_en": "Swachh Bharat Mission provides government support under the Welfare category for All citizens.",
+    "description_kn": "ಸ್ವಚ್ಛ ಭಾರತ ಮಿಷನ್ - ಎಲ್ಲ ನಾಗರಿಕರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible All citizens.",
+    "benefits_kn": "ಅರ್ಹ ಎಲ್ಲ ನಾಗರಿಕರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: All citizens residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಎಲ್ಲ ನಾಗರಿಕರು.",
+    "keywords_en": [
+      "welfare",
+      "all",
+      "citizens"
+    ],
+    "keywords_kn": [
+      "ಸ್ವಚ್ಛ ಭಾರತ ಮಿಷನ್"
+    ],
+    "deadline": null,
+    "category": "Welfare",
+    "state": "All India",
+    "target_group": "All citizens",
+    "scheme_name": "Swachh Bharat Mission",
+    "category_en": "Welfare",
+    "category_kn": "ಕಲ್ಯಾಣ",
+    "target_group_en": "All citizens",
+    "target_group_kn": "ಎಲ್ಲ ನಾಗರಿಕರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Digital India Internship",
+    "title_kn": "ಡಿಜಿಟಲ್ ಇಂಡಿಯಾ ಇಂಟರ್ನ್‍ಶಿಪ್",
+    "description_en": "Digital India Internship provides government support under the Employment category for Students.",
+    "description_kn": "ಡಿಜಿಟಲ್ ಇಂಡಿಯಾ ಇಂಟರ್ನ್‍ಶಿಪ್ - ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Students.",
+    "benefits_kn": "ಅರ್ಹ ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Students residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ವಿದ್ಯಾರ್ಥಿಗಳು.",
+    "keywords_en": [
+      "employment",
+      "students"
+    ],
+    "keywords_kn": [
+      "ಡಿಜಿಟಲ್ ಇಂಡಿಯಾ ಇಂಟರ್ನ್‍ಶಿಪ್"
+    ],
+    "deadline": "2026-08-15",
+    "category": "Employment",
+    "state": "All India",
+    "target_group": "Students",
+    "scheme_name": "Digital India Internship",
+    "category_en": "Employment",
+    "category_kn": "ಉದ್ಯೋಗ",
+    "target_group_en": "Students",
+    "target_group_kn": "ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "National Apprenticeship Promotion Scheme",
+    "title_kn": "ರಾಷ್ಟ್ರೀಯ ಅಪ್ರೆಂಟಿಸ್‍ಶಿಪ್ ಯೋಜನೆ",
+    "description_en": "National Apprenticeship Promotion Scheme provides government support under the Skill Development category for Youth.",
+    "description_kn": "ರಾಷ್ಟ್ರೀಯ ಅಪ್ರೆಂಟಿಸ್‍ಶಿಪ್ ಯೋಜನೆ - ಯುವಕರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Youth.",
+    "benefits_kn": "ಅರ್ಹ ಯುವಕರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Youth residing in All India.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಅಖಿಲ ಭಾರತ ನಲ್ಲಿ ವಾಸಿಸುವ ಯುವಕರು.",
+    "keywords_en": [
+      "skill",
+      "development",
+      "youth"
+    ],
+    "keywords_kn": [
+      "ರಾಷ್ಟ್ರೀಯ ಅಪ್ರೆಂಟಿಸ್‍ಶಿಪ್ ಯೋಜನೆ"
+    ],
+    "deadline": "2026-09-30",
+    "category": "Skill Development",
+    "state": "All India",
+    "target_group": "Youth",
+    "scheme_name": "National Apprenticeship Promotion Scheme",
+    "category_en": "Skill Development",
+    "category_kn": "ಕೌಶಲ್ಯ ಅಭಿವೃದ್ಧಿ",
+    "target_group_en": "Youth",
+    "target_group_kn": "ಯುವಕರು",
+    "state_en": "All India",
+    "state_kn": "ಅಖಿಲ ಭಾರತ"
+  },
+  {
+    "title_en": "Anna Bhagya Scheme",
+    "title_kn": "ಅನ್ನ ಭಾಗ್ಯ ಯೋಜನೆ",
+    "description_en": "Anna Bhagya Scheme provides government support under the Welfare category for BPL families.",
+    "description_kn": "ಅನ್ನ ಭಾಗ್ಯ ಯೋಜನೆ - ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible BPL families.",
+    "benefits_kn": "ಅರ್ಹ ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: BPL families residing in Karnataka.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಕರ್ನಾಟಕ ನಲ್ಲಿ ವಾಸಿಸುವ ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳು.",
+    "keywords_en": [
+      "welfare",
+      "bpl",
+      "families"
+    ],
+    "keywords_kn": [
+      "ಅನ್ನ ಭಾಗ್ಯ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Welfare",
+    "state": "Karnataka",
+    "target_group": "BPL families",
+    "scheme_name": "Anna Bhagya Scheme",
+    "category_en": "Welfare",
+    "category_kn": "ಕಲ್ಯಾಣ",
+    "target_group_en": "BPL families",
+    "target_group_kn": "ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳು",
+    "state_en": "Karnataka",
+    "state_kn": "ಕರ್ನಾಟಕ"
+  },
+  {
+    "title_en": "Gruha Lakshmi Scheme",
+    "title_kn": "ಗೃಹ ಲಕ್ಷ್ಮಿ ಯೋಜನೆ",
+    "description_en": "Gruha Lakshmi Scheme provides government support under the Women & Child category for Women heads of family.",
+    "description_kn": "ಗೃಹ ಲಕ್ಷ್ಮಿ ಯೋಜನೆ - ಮಹಿಳೆಯರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Women heads of family.",
+    "benefits_kn": "ಅರ್ಹ ಮಹಿಳೆಯರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Women heads of family residing in Karnataka.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಕರ್ನಾಟಕ ನಲ್ಲಿ ವಾಸಿಸುವ ಮಹಿಳೆಯರು.",
+    "keywords_en": [
+      "women",
+      "child",
+      "women",
+      "heads",
+      "of",
+      "family"
+    ],
+    "keywords_kn": [
+      "ಗೃಹ ಲಕ್ಷ್ಮಿ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Women & Child",
+    "state": "Karnataka",
+    "target_group": "Women heads of family",
+    "scheme_name": "Gruha Lakshmi Scheme",
+    "category_en": "Women & Child",
+    "category_kn": "ಮಹಿಳೆ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ",
+    "target_group_en": "Women heads of family",
+    "target_group_kn": "ಮಹಿಳಾ ಕುಟುಂಬ ಮುಖ್ಯಸ್ಥರು",
+    "state_en": "Karnataka",
+    "state_kn": "ಕರ್ನಾಟಕ"
+  },
+  {
+    "title_en": "Gruha Jyothi Scheme",
+    "title_kn": "ಗೃಹ ಜ್ಯೋತಿ ಯೋಜನೆ",
+    "description_en": "Gruha Jyothi Scheme provides government support under the Welfare category for Households.",
+    "description_kn": "ಗೃಹ ಜ್ಯೋತಿ ಯೋಜನೆ - ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Households.",
+    "benefits_kn": "ಅರ್ಹ ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Households residing in Karnataka.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಕರ್ನಾಟಕ ನಲ್ಲಿ ವಾಸಿಸುವ.",
+    "keywords_en": [
+      "welfare",
+      "households"
+    ],
+    "keywords_kn": [
+      "ಗೃಹ ಜ್ಯೋತಿ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Welfare",
+    "state": "Karnataka",
+    "target_group": "Households",
+    "scheme_name": "Gruha Jyothi Scheme",
+    "category_en": "Welfare",
+    "category_kn": "ಕಲ್ಯಾಣ",
+    "target_group_en": "Households",
+    "target_group_kn": "ಕುಟುಂಬಗಳು",
+    "state_en": "Karnataka",
+    "state_kn": "ಕರ್ನಾಟಕ"
+  },
+  {
+    "title_en": "Yuva Nidhi Scheme",
+    "title_kn": "ಯುವ ನಿಧಿ ಯೋಜನೆ",
+    "description_en": "Yuva Nidhi Scheme provides government support under the Employment category for Unemployed graduates.",
+    "description_kn": "ಯುವ ನಿಧಿ ಯೋಜನೆ - ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Unemployed graduates.",
+    "benefits_kn": "ಅರ್ಹ ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Unemployed graduates residing in Karnataka.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಕರ್ನಾಟಕ ನಲ್ಲಿ ವಾಸಿಸುವ.",
+    "keywords_en": [
+      "employment",
+      "unemployed",
+      "graduates"
+    ],
+    "keywords_kn": [
+      "ಯುವ ನಿಧಿ ಯೋಜನೆ"
+    ],
+    "deadline": "2026-08-31",
+    "category": "Employment",
+    "state": "Karnataka",
+    "target_group": "Unemployed graduates",
+    "scheme_name": "Yuva Nidhi Scheme",
+    "category_en": "Employment",
+    "category_kn": "ಉದ್ಯೋಗ",
+    "target_group_en": "Unemployed graduates",
+    "target_group_kn": "ನಿರುದ್ಯೋಗಿ ಪದವೀಧರರು",
+    "state_en": "Karnataka",
+    "state_kn": "ಕರ್ನಾಟಕ"
+  },
+  {
+    "title_en": "Shakti Scheme (Free Bus Travel)",
+    "title_kn": "ಶಕ್ತಿ ಯೋಜನೆ",
+    "description_en": "Shakti Scheme (Free Bus Travel) provides government support under the Women & Child category for Women.",
+    "description_kn": "ಶಕ್ತಿ ಯೋಜನೆ - ಮಹಿಳೆಯರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Women.",
+    "benefits_kn": "ಅರ್ಹ ಮಹಿಳೆಯರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Women residing in Karnataka.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಕರ್ನಾಟಕ ನಲ್ಲಿ ವಾಸಿಸುವ ಮಹಿಳೆಯರು.",
+    "keywords_en": [
+      "women",
+      "child",
+      "women"
+    ],
+    "keywords_kn": [
+      "ಶಕ್ತಿ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Women & Child",
+    "state": "Karnataka",
+    "target_group": "Women",
+    "scheme_name": "Shakti Scheme (Free Bus Travel)",
+    "category_en": "Women & Child",
+    "category_kn": "ಮಹಿಳೆ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ",
+    "target_group_en": "Women",
+    "target_group_kn": "ಮಹಿಳೆಯರು",
+    "state_en": "Karnataka",
+    "state_kn": "ಕರ್ನಾಟಕ"
+  },
+  {
+    "title_en": "Krishi Bhagya Scheme",
+    "title_kn": "ಕೃಷಿ ಭಾಗ್ಯ ಯೋಜನೆ",
+    "description_en": "Krishi Bhagya Scheme provides government support under the Agriculture category for Farmers.",
+    "description_kn": "ಕೃಷಿ ಭಾಗ್ಯ ಯೋಜನೆ - ರೈತರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Farmers.",
+    "benefits_kn": "ಅರ್ಹ ರೈತರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Farmers residing in Karnataka.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಕರ್ನಾಟಕ ನಲ್ಲಿ ವಾಸಿಸುವ ರೈತರು.",
+    "keywords_en": [
+      "agriculture",
+      "farmers"
+    ],
+    "keywords_kn": [
+      "ಕೃಷಿ ಭಾಗ್ಯ ಯೋಜನೆ"
+    ],
+    "deadline": "2026-09-30",
+    "category": "Agriculture",
+    "state": "Karnataka",
+    "target_group": "Farmers",
+    "scheme_name": "Krishi Bhagya Scheme",
+    "category_en": "Agriculture",
+    "category_kn": "ಕೃಷಿ",
+    "target_group_en": "Farmers",
+    "target_group_kn": "ರೈತರು",
+    "state_en": "Karnataka",
+    "state_kn": "ಕರ್ನಾಟಕ"
+  },
+  {
+    "title_en": "Vidyasiri Hostel Scheme",
+    "title_kn": "ವಿದ್ಯಾಸಿರಿ ಹಾಸ್ಟೆಲ್ ಯೋಜನೆ",
+    "description_en": "Vidyasiri Hostel Scheme provides government support under the Education category for OBC/SC students.",
+    "description_kn": "ವಿದ್ಯಾಸಿರಿ ಹಾಸ್ಟೆಲ್ ಯೋಜನೆ - ಒಬಿಸಿ/ಎಸ್‌ಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible OBC/SC students.",
+    "benefits_kn": "ಅರ್ಹ ಒಬಿಸಿ/ಎಸ್‌ಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: OBC/SC students residing in Karnataka.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಕರ್ನಾಟಕ ನಲ್ಲಿ ವಾಸಿಸುವ ಒಬಿಸಿ/ಎಸ್‌ಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು.",
+    "keywords_en": [
+      "education",
+      "students"
+    ],
+    "keywords_kn": [
+      "ವಿದ್ಯಾಸಿರಿ ಹಾಸ್ಟೆಲ್ ಯೋಜನೆ"
+    ],
+    "deadline": "2026-08-31",
+    "category": "Education",
+    "state": "Karnataka",
+    "target_group": "OBC/SC students",
+    "scheme_name": "Vidyasiri Hostel Scheme",
+    "category_en": "Education",
+    "category_kn": "ಶಿಕ್ಷಣ",
+    "target_group_en": "OBC/SC students",
+    "target_group_kn": "ಒಬಿಸಿ/ಎಸ್‌ಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "state_en": "Karnataka",
+    "state_kn": "ಕರ್ನಾಟಕ"
+  },
+  {
+    "title_en": "Devraj Urs Backward Classes Loan",
+    "title_kn": "ದೇವರಾಜ ಅರಸು ಹಿಂದುಳಿದ ವರ್ಗಗಳ ಸಾಲ",
+    "description_en": "Devraj Urs Backward Classes Loan provides government support under the Employment category for OBC entrepreneurs.",
+    "description_kn": "ದೇವರಾಜ ಅರಸು ಹಿಂದುಳಿದ ವರ್ಗಗಳ ಸಾಲ - ಒಬಿಸಿ ಉದ್ಯಮಿಗಳು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible OBC entrepreneurs.",
+    "benefits_kn": "ಅರ್ಹ ಒಬಿಸಿ ಉದ್ಯಮಿಗಳು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: OBC entrepreneurs residing in Karnataka.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಕರ್ನಾಟಕ ನಲ್ಲಿ ವಾಸಿಸುವ ಒಬಿಸಿ ಉದ್ಯಮಿಗಳು.",
+    "keywords_en": [
+      "employment",
+      "obc",
+      "entrepreneurs"
+    ],
+    "keywords_kn": [
+      "ದೇವರಾಜ ಅರಸು ಹಿಂದುಳಿದ ವರ್ಗಗಳ ಸಾಲ"
+    ],
+    "deadline": "2026-12-31",
+    "category": "Employment",
+    "state": "Karnataka",
+    "target_group": "OBC entrepreneurs",
+    "scheme_name": "Devraj Urs Backward Classes Loan",
+    "category_en": "Employment",
+    "category_kn": "ಉದ್ಯೋಗ",
+    "target_group_en": "OBC entrepreneurs",
+    "target_group_kn": "ಒಬಿಸಿ ಉದ್ಯಮಿಗಳು",
+    "state_en": "Karnataka",
+    "state_kn": "ಕರ್ನಾಟಕ"
+  },
+  {
+    "title_en": "Bhagyalakshmi Scheme",
+    "title_kn": "ಭಾಗ್ಯಲಕ್ಷ್ಮಿ ಯೋಜನೆ",
+    "description_en": "Bhagyalakshmi Scheme provides government support under the Women & Child category for Girl child BPL.",
+    "description_kn": "ಭಾಗ್ಯಲಕ್ಷ್ಮಿ ಯೋಜನೆ - ಹೆಣ್ಣು ಮಗು ಬಿಪಿಎಲ್ ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Girl child BPL.",
+    "benefits_kn": "ಅರ್ಹ ಹೆಣ್ಣು ಮಗು ಬಿಪಿಎಲ್ ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Girl child BPL residing in Karnataka.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಕರ್ನಾಟಕ ನಲ್ಲಿ ವಾಸಿಸುವ ಹೆಣ್ಣು ಮಗು ಬಿಪಿಎಲ್.",
+    "keywords_en": [
+      "women",
+      "child",
+      "girl",
+      "child",
+      "bpl"
+    ],
+    "keywords_kn": [
+      "ಭಾಗ್ಯಲಕ್ಷ್ಮಿ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Women & Child",
+    "state": "Karnataka",
+    "target_group": "Girl child BPL",
+    "scheme_name": "Bhagyalakshmi Scheme",
+    "category_en": "Women & Child",
+    "category_kn": "ಮಹಿಳೆ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ",
+    "target_group_en": "Girl child BPL",
+    "target_group_kn": "ಬಿಪಿಎಲ್ ಹೆಣ್ಣು ಮಗು",
+    "state_en": "Karnataka",
+    "state_kn": "ಕರ್ನಾಟಕ"
+  },
+  {
+    "title_en": "Mathru Poorna Scheme",
+    "title_kn": "ಮಾತೃ ಪೂರ್ಣ ಯೋಜನೆ",
+    "description_en": "Mathru Poorna Scheme provides government support under the Healthcare category for Pregnant & lactating women.",
+    "description_kn": "ಮಾತೃ ಪೂರ್ಣ ಯೋಜನೆ - & ಮಹಿಳೆಯರು ಗಾಗಿ ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "benefits_en": "Financial assistance, subsidies and welfare benefits for eligible Pregnant & lactating women.",
+    "benefits_kn": "ಅರ್ಹ & ಮಹಿಳೆಯರು ಗಾಗಿ ಆರ್ಥಿಕ ಸಹಾಯ ಮತ್ತು ಸಬ್ಸಿಡಿ.",
+    "eligibility_en": "Eligible: Pregnant & lactating women residing in Karnataka.",
+    "eligibility_kn": "ಅರ್ಹತೆ: ಕರ್ನಾಟಕ ನಲ್ಲಿ ವಾಸಿಸುವ & ಮಹಿಳೆಯರು.",
+    "keywords_en": [
+      "healthcare",
+      "pregnant",
+      "lactating",
+      "women"
+    ],
+    "keywords_kn": [
+      "ಮಾತೃ ಪೂರ್ಣ ಯೋಜನೆ"
+    ],
+    "deadline": null,
+    "category": "Healthcare",
+    "state": "Karnataka",
+    "target_group": "Pregnant & lactating women",
+    "scheme_name": "Mathru Poorna Scheme",
+    "category_en": "Healthcare",
+    "category_kn": "ಆರೋಗ್ಯ",
+    "target_group_en": "Pregnant & lactating women",
+    "target_group_kn": "ಗರ್ಭಿಣಿ ಮತ್ತು ಸ್ತನ್ಯಪಾನ ಮಾಡುವ ಮಹಿಳೆಯರು",
+    "state_en": "Karnataka",
+    "state_kn": "ಕರ್ನಾಟಕ"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "embedding_model": {
+    "name": "all-MiniLM-L6-v2",
+    "source": "sentence-transformers",
+    "dimension": 384,
+    "description": "Lightweight sentence embedding model optimized for semantic similarity tasks. Maps sentences to 384-dimensional dense vectors.",
+    "huggingface_url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+    "fallback": {
+      "name": "character-ngram-hasher",
+      "dimension": 128,
+      "description": "Deterministic character-level hashing for demo environments without GPU or sentence-transformers installed."
+    }
+  },
+  "vector_database": {
+    "name": "ChromaDB",
+    "version": "0.4+",
+    "collection": "scheme_embeddings",
+    "distance_metric": "cosine",
+    "description": "Lightweight open-source vector database for local semantic search.",
+    "fallback": "in-memory cosine similarity (NumPy)"
+  },
+  "scoring_weights": {
+    "rule_based": 0.6,
+    "semantic_similarity": 0.3,
+    "bonus_factors": 0.1
+  },
+  "attribute_weights": {
+    "age": 20,
+    "income": 20,
+    "state": 15,
+    "gender": 10,
+    "education": 15,
+    "occupation": 10,
+    "category": 10
+  }
+}
