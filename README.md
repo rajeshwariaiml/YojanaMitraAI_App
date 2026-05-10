@@ -2,7 +2,7 @@
 
 > AI-powered, multilingual government scheme recommendation platform for Indian citizens.
 
-YojanaMitraAI helps users discover the **right government welfare schemes** for their personal situation through natural-language queries in **English** and **Kannada**, voice input, structured profiles, and a custom ML recommendation pipeline running over **527 real Indian schemes**. :contentReference[oaicite:0]{index=0}
+YojanaMitraAI helps users discover the **right government welfare schemes** for their personal situation through natural-language queries in **English** and **Kannada**, voice input, structured profiles, enhanced responsiveness and a custom ML recommendation pipeline running over **527 real Indian schemes**. :contentReference[oaicite:0]{index=0}
 
 ---
 
